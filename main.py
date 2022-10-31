@@ -5,7 +5,7 @@
 
 
 
-token = "9a2229d9773a8a359863809830dd0891aa9397a3"
+token = ""
 
 zipcode = input("Enter you zipcode: ")
 
